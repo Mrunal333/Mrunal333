@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Mrunal333
 - 👀 I’m Flutter Developer
 - 🌱 I’m currently learning Flutter 
-- 📫 How to reach me _m.r.u._.n.a.l_ My insta Account
+
 ## Go With The Flow
 
 <a href="https://github.com/Dev-Adnani">
